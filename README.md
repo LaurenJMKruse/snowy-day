@@ -1,2 +1,3 @@
-# snowy-day
+## Snowy Day
+
 Practice Repository
